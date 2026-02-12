@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_medication.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_medication.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_pharmacy.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_pharmacy.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_covid.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_covid.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_doctor.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_doctor.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_diandra.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_diandra.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_c19vaccines.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_c19vaccines.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_covid19.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_covid19.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_doctor3.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_doctor3.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_livecallvideo.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_livecallvideo.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_dr2.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_dr2.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_orline.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_orline.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_getry.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_getry.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_cardiologist.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_cardiologist.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_ambulance.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_ambulance.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_consultdr.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_consultdr.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_dr3.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_dr3.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_done.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_done.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_doctor2.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_doctor2.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_dateimage_edit.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_dateimage_edit.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.healthone.app-main-35:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_star.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_star.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_logout.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_logout.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_dateimage_creditcard.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_dateimage_creditcard.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_lungs.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_lungs.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_bookmark.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_bookmark.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_facebook.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_facebook.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_dateimage_bookappointment.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_dateimage_bookappointment.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_doctor1.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_doctor1.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_gradientcoolart.jpg.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_gradientcoolart.jpg"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_images_onehealthwhite.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_images_onehealthwhite.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_hospital.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_hospital.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_google.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_google.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_dateimage_successdone2.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_dateimage_successdone2.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_dentist.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_dentist.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_location.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_location.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_comingsoon.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_comingsoon.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_apple.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_apple.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_getstartbgimg.jpeg.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_getstartbgimg.jpeg"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_images_healthdr.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_images_healthdr.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.healthone.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_appimage_rectangle36.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_appimage_rectangle36.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_psychiatrist.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_psychiatrist.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_message.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_message.png"
+    },
+    {
+        "merged": "com.healthone.app-merged_res-34:/drawable-mdpi_component_assets_icon_vector.png.flat",
+        "source": "com.healthone.app-react-29:/drawable-mdpi/component_assets_icon_vector.png"
+    }
+]
